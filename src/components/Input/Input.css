@@ -1,0 +1,14 @@
+.inpContiner {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+
+.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+    border-color: #1d72e7;
+}
